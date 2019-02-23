@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "SSS",
+        "SSS",
+        "SSS"
+    ],
+
+    "key":
+    {
+        "S":
+        {
+            "item": "vm:Sapphire"
+        }
+    },
+
+    "result":
+    {
+        "item": "vm:Sapphire_Block",
+        "count": 1
+    }
+}

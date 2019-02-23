@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+
+    "key":
+    {
+        "A":
+        {
+            "item": "vm:apollyonic_ingot"
+        }
+    },
+
+    "result":
+    {
+        "item": "vm:apollyonic_block",
+        "count": 1
+    }
+}

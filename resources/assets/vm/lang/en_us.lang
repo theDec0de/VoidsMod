@@ -1,0 +1,27 @@
+//Items
+item.Sapphire.name=Sapphire
+item.Ruby.name=Ruby
+item.apollyonic_alloy.name=Apollyonic Dust
+item.apollyonic_ingot.name=Apollyonic Ingot
+item.stone_stick.name=Stone Stick
+
+//blocks
+tile.Ruby_Block.name=Block of Ruby
+tile.Sapphire_Block.name=Block of Sapphire
+tile.apollyonic_block.name=Block of Apollyon
+
+//tools
+item.ruby_sword.name=Ruby Sword
+item.ruby_shovel.name=Ruby Shovel
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_axe.name=Ruby Axe
+item.ruby_hoe.name=Ruby Hoe
+
+item.sapphire_sword.name=Sapphire Sword
+item.sapphire_shovel.name=Sapphire Shovel
+item.sapphire_pickaxe.name=Sapphire Pickaxe
+item.sapphire_axe.name=Sapphire Axe
+item.sapphire_hoe.name=Sapphire Hoe
+
+//creative tabs
+itemGroup.voidsmod=Void's Mod

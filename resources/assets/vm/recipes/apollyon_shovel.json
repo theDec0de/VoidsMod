@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        " A ",
+        " S ",
+        " S "
+    ],
+
+    "key":
+    {
+        "A":
+        {
+            "item": "vm:apollyonic_block"
+        },
+        "S":{
+            "item": "vm:stone_stick"
+        }
+    },
+
+    "result":
+    {
+        "item": "vm:apollyon_shovel",
+        "count": 1
+    }
+}

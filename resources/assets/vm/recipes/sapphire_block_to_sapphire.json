@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients":
+    [
+        {
+        "item": "vm:Sapphire_Block"
+        }
+    ],
+
+    "result":
+    {
+        "item": "vm:Sapphire",
+        "count": 9
+    }
+}

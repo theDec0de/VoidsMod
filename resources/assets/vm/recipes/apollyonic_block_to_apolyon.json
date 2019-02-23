@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients":
+    [
+        {
+        "item": "vm:apollyonic_block"
+        }
+    ],
+
+    "result":
+    {
+        "item": "vm:apollyonic_ingot",
+        "count": 9
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "AA ",
+        " S ",
+        " S "
+    ],
+
+    "key":
+    {
+        "A":
+        {
+            "item": "vm:Sapphire"
+        },
+        "S":{
+            "item": "vm:stone_stick"
+        }
+    },
+
+    "result":
+    {
+        "item": "vm:sapphire_hoe",
+        "count": 1
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients":
+    [
+        {
+        "item": "minecraft:gold_ingot"
+        },
+        {
+            "item": "vm:Ruby"
+        },
+        {
+            "item": "vm:Sapphire"
+        }
+    ],
+
+    "result":
+    {
+        "item": "vm:apollyonic_alloy",
+        "count": 1
+    }
+}
